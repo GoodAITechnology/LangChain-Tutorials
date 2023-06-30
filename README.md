@@ -1,6 +1,8 @@
 # Project 4: OpenAI-Functions-Calling-with-LangChain - Simple Weather Bot
 Explore OpenAI's Function Calling API using LangChain. [Simple Weather Bot](https://github.com/GoodAITechnology/LangChain-Tutorials/blob/main/OpenAI%20Functions%20Calling%20%2B%20LangChain%20-%20Weather%20Bot.ipynb) using LangChain and OpenAI API. This feature is big because it opens up the portal to be able to call vendor tools and custom tools from your LLM app/bots in a more reliable manner.
 
+[Watch the YouTube Tutorial Video](https://youtu.be/Jn6zjfsiJxw)
+
 ![OpenAI Function Calling Thumbnail](https://github.com/manjiridatar/OpenAI-Functions-Calling-Feature-Explore/assets/14959493/de8d17ef-b59a-44a4-a41a-cabd8e423900)
 
 
@@ -11,5 +13,7 @@ This [notebook](https://github.com/GoodAITechnology/LangChain-Tutorials/blob/mai
 It also guides you on the basics of querying your custom TXT/PDF file to get answers back (semantic search) from the Pinecone vector database, via the OpenAI LLM API.
 
 Using LLMs to query your own data is a powerful application to become operationally efficient for various tasks requiring looking up large documents.
+
+[Watch the YouTube Tutorial Video](https://youtu.be/AKfl_ZuZBZA)
 
 Here is the link to the Scale AI Readiness Report : https://go.scale.com/hubfs/Scale-Zeitgeist-AI-Readiness-Report-2023.pdf Link to public domain tex of The Wonderful Wizard of Oz: https://www.gutenberg.org/ebooks/55
