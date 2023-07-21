@@ -1,3 +1,18 @@
+
+# Project 5: LangChain Pinecone OpenAI - Query Multiple PDF Files and Cite Sources
+
+This [notebook](https://github.com/GoodAITechnology/LangChain-Tutorials/blob/main/LangChain%20Pinecone%20OpenAI%20-%20Query%20Your%20Own%20Files%20-%20Multiple%20PDFs%20with%20Sources.ipynb) guides you through the basics of loading multiple PDF file externally into Pinecone as embeddings(vectors).
+
+It also guides you on the basics of querying your custom PDF files data to get answers back (semantic search) from the Pinecone vector database, via the OpenAI LLM API. We walk through 2 approaches, first using the RetrievalQA chain and the second using VectorStoreAgent
+
+Using LLMs to query your own data is a powerful application to become operationally efficient for various tasks requiring looking up large documents.
+
+[Watch the YouTube Tutorial Video](TBD)
+
+Link to PDF Document Sources: TBD
+
+
+
 # Project 4: OpenAI-Functions-Calling-with-LangChain - Simple Weather Bot
 Explore OpenAI's Function Calling API using LangChain. [Simple Weather Bot](https://github.com/GoodAITechnology/LangChain-Tutorials/blob/main/OpenAI%20Functions%20Calling%20%2B%20LangChain%20-%20Weather%20Bot.ipynb) using LangChain and OpenAI API. This feature is big because it opens up the portal to be able to call vendor tools and custom tools from your LLM app/bots in a more reliable manner.
 
