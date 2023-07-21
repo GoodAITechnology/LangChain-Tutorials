@@ -13,7 +13,9 @@ Link to PDF Document Sources: TBD
 
 As promised, these are the links to the Generative AI Whitepapers from KPMG, Accenture and McKinsey : 
 1.[KPMG:](https://assets.kpmg.com/content/dam/kpmg/xx/pdf/2023/04/generative-ai-models-the-risks-and-potential-rewards-in-business.pdf)
+
 2. [Accenture:](https://www.accenture.com/content/dam/accenture/final/accenture-com/document/Accenture-A-New-Era-of-Generative-AI-for-Everyone.pdf)
+
 3. [McKinsey:](https://www.mckinsey.com/~/media/mckinsey/business%20functions/mckinsey%20digital/our%20insights/the%20economic%20potential%20of%20generative%20ai%20the%20next%20productivity%20frontier/the-economic-potential-of-generative-ai-the-next-productivity-frontier-vf.pdf)
 
 
