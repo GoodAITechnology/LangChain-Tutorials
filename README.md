@@ -12,6 +12,7 @@ Using LLMs to query your own data is a powerful application to become operationa
 Link to PDF Document Sources: TBD
 
 As promised, these are the links to the Generative AI Whitepapers from KPMG, Accenture and McKinsey : 
+
 1.[KPMG:](https://assets.kpmg.com/content/dam/kpmg/xx/pdf/2023/04/generative-ai-models-the-risks-and-potential-rewards-in-business.pdf)
 
 2. [Accenture:](https://www.accenture.com/content/dam/accenture/final/accenture-com/document/Accenture-A-New-Era-of-Generative-AI-for-Everyone.pdf)
