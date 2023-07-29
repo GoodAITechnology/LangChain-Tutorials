@@ -2,7 +2,7 @@
 
 This [notebook](https://github.com/GoodAITechnology/LangChain-Tutorials/blob/main/LangChain%20Self%20Critique%20with%20Constitutional%20AI%20-%20Tutorial.ipynb) guides you through using Constitutional AI chain in LangChain for the purpose of trying to protect your LLM App from malicious hackers and malicious prompt engineerings.
 
-The implimentation of unified objectives is based on this [paper:](examine.dev/docs/Unified_objectives.pdf) 
+The implimentation of unified objectives is based on this [paper:](https://examine.dev/docs/Unified_objectives.pdf) 
 
 [Watch the YouTube Tutorial Video](TBD)
 
