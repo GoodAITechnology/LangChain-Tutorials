@@ -1,3 +1,14 @@
+# Project 6: LangChain Coonstitutional AI to Try Prevent Prompt Hacking in LLM Apps
+
+This [notebook](https://github.com/GoodAITechnology/LangChain-Tutorials/blob/main/LangChain%20Self%20Critique%20with%20Constitutional%20AI%20-%20Tutorial.ipynb) guides you through using Constitutional AI chain in LangChain for the purpose of trying to protect your LLM App from malicious hackers and malicious prompt engineerings.
+
+The implimentation of unified objectives is based on this [paper:](examine.dev/docs/Unified_objectives.pdf) 
+
+[Watch the YouTube Tutorial Video](TBD)
+
+![LangChain Constitutional AI Explained](https://github.com/GoodAITechnology/LangChain-Tutorials/blob/main/LangChain%20Constitutional%20AI%20Thumbnail.png)
+
+
 
 # Project 5: LangChain Pinecone OpenAI - Query Multiple PDF Files and Cite Sources
 
@@ -9,8 +20,6 @@ Using LLMs to query your own data is a powerful application to become operationa
 
 [Watch the YouTube Tutorial Video](https://youtu.be/8R2ArvI9vkk)
 
-Link to PDF Document Sources: TBD
-
 As promised, these are the links to the Generative AI Whitepapers from [KPMG](https://assets.kpmg.com/content/dam/kpmg/xx/pdf/2023/04/generative-ai-models-the-risks-and-potential-rewards-in-business.pdf), [Accenture](https://www.accenture.com/content/dam/accenture/final/accenture-com/document/Accenture-A-New-Era-of-Generative-AI-for-Everyone.pdf), [McKinsey](https://www.mckinsey.com/~/media/mckinsey/business%20functions/mckinsey%20digital/our%20insights/the%20economic%20potential%20of%20generative%20ai%20the%20next%20productivity%20frontier/the-economic-potential-of-generative-ai-the-next-productivity-frontier-vf.pdf)
 
 
@@ -19,7 +28,7 @@ Explore OpenAI's Function Calling API using LangChain. [Simple Weather Bot](http
 
 [Watch the YouTube Tutorial Video](https://youtu.be/Jn6zjfsiJxw)
 
-![OpenAI Function Calling Thumbnail](https://github.com/manjiridatar/OpenAI-Functions-Calling-Feature-Explore/assets/14959493/de8d17ef-b59a-44a4-a41a-cabd8e423900)
+![OpenAI Function Calling Thumbnail](https://github.com/GoodAITechnology/LangChain-Tutorials/blob/main/OpenAI%20LangChainFunctionCalling.png)
 
 
 # Project 3: LangChain Pinecone OpenAI - Query Single PDF or TXT File - Basics
